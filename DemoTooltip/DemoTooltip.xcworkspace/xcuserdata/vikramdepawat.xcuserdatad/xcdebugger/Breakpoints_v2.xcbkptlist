@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5F1A0FCF-4FAF-45DC-9B34-E0A24640B07E"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48A405CF-85EF-41EE-89ED-62FF422102FA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoTooltip/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "didTapLabel(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "48A405CF-85EF-41EE-89ED-62FF422102FA - a605af924a9716c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoTooltip.ViewController.didTapLabel(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "DemoTooltip"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vikramdepawat/Documents/Learning%20Path%20way/Swift/DemoTooltip/DemoTooltip/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "1196">
+               </Location>
+               <Location
+                  uuid = "48A405CF-85EF-41EE-89ED-62FF422102FA - a605af924a9716c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoTooltip.ViewController.didTapLabel(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "DemoTooltip"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vikramdepawat/Documents/Learning%20Path%20way/Swift/DemoTooltip/DemoTooltip/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "488">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56AABD32-8CBE-4750-8C34-338C70580BE2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoTooltip/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "setPopupView(frame:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "56AABD32-8CBE-4750-8C34-338C70580BE2 - 72a83c7092b1c2a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (() -&gt; ()) -&gt; () in DemoTooltip.ViewController.setPopupView(frame: __C.CGRect) -&gt; ()"
+                  moduleName = "DemoTooltip"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vikramdepawat/Documents/Learning%20Path%20way/Swift/DemoTooltip/DemoTooltip/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "56AABD32-8CBE-4750-8C34-338C70580BE2 - ad955cd7d97406fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoTooltip.ViewController.setPopupView(frame: __C.CGRect) -&gt; ()"
+                  moduleName = "DemoTooltip"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vikramdepawat/Documents/Learning%20Path%20way/Swift/DemoTooltip/DemoTooltip/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "624">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55E76C15-1188-4164-8A82-27A0FAD90FFE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoTooltip/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "setPopupView(frame:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "55E76C15-1188-4164-8A82-27A0FAD90FFE - 32189ed3453b21d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Bool) -&gt; () in closure #1 (() -&gt; ()) -&gt; () in DemoTooltip.ViewController.setPopupView(frame: __C.CGRect) -&gt; ()"
+                  moduleName = "DemoTooltip"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vikramdepawat/Documents/Learning%20Path%20way/Swift/DemoTooltip/DemoTooltip/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "55E76C15-1188-4164-8A82-27A0FAD90FFE - fc1267b767679d75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (() -&gt; ()) -&gt; () in DemoTooltip.ViewController.setPopupView(frame: __C.CGRect) -&gt; ()"
+                  moduleName = "DemoTooltip"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vikramdepawat/Documents/Learning%20Path%20way/Swift/DemoTooltip/DemoTooltip/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58A6A6D0-F3AF-4441-83DA-6D050DDECED2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoTooltip/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "didTapLabel(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
